@@ -18,7 +18,7 @@ Develop a data pipeline in AWS to manage, streamline, and transform the structur
 * AWS Athena: Used for querying SQL commands, create databases and verify the outputs.
 * AWS Lambda: Used to write and test the python script for converting the data in json format to parquet and storing the cleaned version in new S3 bucket.
               Also creating triggers on S3 buckets to automate the above ETL process on the data whenever there is any change in the bucket. 
-* AWS Quicksight: Its a business intelligence (BI) service built for the cloud and was used to create interactive dashboards to visualiza and gain insights on various factors and features associated with trending videos.
+* AWS Quicksight: Its a business intelligence (BI) service built for the cloud and was used to create interactive dashboards to visualize and gain insights on various factors and features associated with trending videos.
 
 ## Dataset
 
