@@ -2,7 +2,7 @@
 
 ## Objective:
 
-Develop a data pipeline in AWS to manage, streamline, and transform the structured and unstructured data containing 200+ trending youtube videos dataset to perform analysis based on categories and trending metrics. 
+Develop a data pipeline in AWS to manage, streamline, and transform the structured and unstructured data containing 200+ trending youtube video datasets to perform analysis based on categories and trending metrics. 
 
 ## Technology Stack
 * Python 
