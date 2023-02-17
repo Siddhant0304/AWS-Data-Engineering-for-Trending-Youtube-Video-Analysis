@@ -31,6 +31,8 @@ The data also includes a category_id field, which varies between regions. To ret
 ## Architecture
 
 
+![Youtube analysis architecture](https://user-images.githubusercontent.com/39940767/219521787-f536bdb7-1a6a-464c-8ca7-a92df42a3077.jpg)
+
 ## Project Learnings
 * Data Ingestion
 * Data Lake 
